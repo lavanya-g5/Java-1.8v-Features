@@ -1,5 +1,5 @@
 /*
- * Lambda expression example 2
+ * Lambda expression example 2 with no parameter
  */
 package com.practice1;
 
