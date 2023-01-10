@@ -15,7 +15,7 @@
 // () -> {body};
 
 /*
- * Lambda expression example with no parameter.
+ * Lambda expression example 1 with no parameter
  */
 package com.practice1;
 
